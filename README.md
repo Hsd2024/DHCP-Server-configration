@@ -1,6 +1,8 @@
 # DHCP-Server-configration
 Configuring a DHCP (Dynamic Host Configuration Protocol) server for a business network involves more complex and structured settings compared to home networks. The goal is to efficiently manage IP addresses for a larger number of devices and to support business needs such as scalability, network segmentation, security, and redundancy.
 
+![DHCP Diagram](https://github.com/user-attachments/assets/52b2f1c6-b22c-44e6-9aac-0eea64005578)
+
 Let's go one by one how to do it,
 
 # Step 1: Plan the Network Addressing Scheme
